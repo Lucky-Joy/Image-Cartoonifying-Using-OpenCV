@@ -1,4 +1,4 @@
-# 🎨 CartoonifyCam
+# 🎨 Image Cartoonify
 
 Turn your live webcam feed or uploaded images into cartoon-style artwork with just one click — no training, no datasets, just OpenCV magic!
 
